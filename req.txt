@@ -1,0 +1,17 @@
+imutils
+tika
+wave
+nltk
+gensim
+seaborn
+scikit-learn
+dill
+keras
+wordcloud
+cv2  //
+time //
+re  //
+os  //
+collections //
+tenserflow //
+dll //
